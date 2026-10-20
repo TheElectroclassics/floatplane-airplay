@@ -31,6 +31,8 @@ añade AirPlay y Picture-in-Picture a floatplane.com. Todo el código vive en es
 
 ## Al cambiar el script
 
-- Subir `@version` en la cabecera.
+- Subir `@version` en la cabecera (Tampermonkey solo actualiza si cambia).
+- Publicar con commit + `git push` a `main` en https://github.com/TheElectroclassics/floatplane-airplay
+  (`@updateURL`/`@downloadURL` apuntan al raw de `main`).
 - Comprobar sintaxis con `node --check floatplane-native-airplay.user.js`.
 - Mantener textos de interfaz y comentarios en español.
