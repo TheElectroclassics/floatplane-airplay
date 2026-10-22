@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Floatplane → Reproductor nativo de macOS + AirPlay
 // @namespace    https://floatplane.com/
-// @version      2.0.1
+// @version      2.0.2
 // @description  Añade AirPlay y Picture-in-Picture al reproductor de Floatplane en Safari, con un modo opcional de reproductor nativo de macOS.
 // @match        https://www.floatplane.com/*
 // @match        https://floatplane.com/*
 // @run-at       document-start
 // @grant        none
-// @homepageURL  https://github.com/TheElectroclassics/floatplane-airplay
-// @updateURL    https://raw.githubusercontent.com/TheElectroclassics/floatplane-airplay/main/floatplane-native-airplay.user.js
-// @downloadURL  https://raw.githubusercontent.com/TheElectroclassics/floatplane-airplay/main/floatplane-native-airplay.user.js
+// @homepageURL  https://github.com/ajmediamex/floatplane-airplay
+// @updateURL    https://raw.githubusercontent.com/ajmediamex/floatplane-airplay/main/floatplane-native-airplay.user.js
+// @downloadURL  https://raw.githubusercontent.com/ajmediamex/floatplane-airplay/main/floatplane-native-airplay.user.js
 // ==/UserScript==
 
 (() => {

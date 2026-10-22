@@ -7,7 +7,7 @@ el reproductor nativo de macOS.
 ## Instalación
 
 1. Instala Tampermonkey en Safari.
-2. Abre [floatplane-native-airplay.user.js](https://raw.githubusercontent.com/TheElectroclassics/floatplane-airplay/main/floatplane-native-airplay.user.js)
+2. Abre [floatplane-native-airplay.user.js](https://raw.githubusercontent.com/ajmediamex/floatplane-airplay/main/floatplane-native-airplay.user.js)
    y pulsa «Instalar» en Tampermonkey.
 3. Abre cualquier video de Floatplane.
 
